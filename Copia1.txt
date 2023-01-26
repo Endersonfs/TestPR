@@ -1,6 +1,6 @@
 NAME
 git - the stupid content tracker
-
+test papa frita
 SYNOPSIS
 git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
     [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
